@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/red-icon/bot-factory.git"
+    "url": "https://github.com/reza0982/BotFactorY.git"
   },
   "keywords": [
     "botgame",
     "botfactory"
   ],
-  "author": "kekemoto",
+  "author": "namikaze",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/red-icon/bot-factory/issues"
+    "url": "https://github.com/reza0982/BotFactorY.git"
   },
-  "homepage": "https://github.com/red-icon/bot-factory#readme",
+  "homepage": "https://github.com/reza0982/BotFactorY.git#readme",
   "dependencies": {
     "immutable": "^3.8.1",
     "oauth": "^0.9.14"

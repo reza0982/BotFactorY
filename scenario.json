@@ -1,0 +1,9 @@
+{
+  "serif": [
+    {
+      "input": "test",
+      "output": "It works !"
+    }
+  ],
+  "noMatch": "I don't understand."
+}
